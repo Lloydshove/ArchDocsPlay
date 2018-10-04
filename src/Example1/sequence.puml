@@ -1,0 +1,3 @@
+@startuml Example1 Container
+Bob->Alice : Hello
+@enduml
